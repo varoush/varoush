@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @varoush
 - 👀 I’m interested in analytics and data projects 
-- 🌱 I’m currently learning Scala and SQL
 - 💞️ I’m looking to collaborate on open source projects in healthtech, medical devices and non-profits
 - 📫 How to reach me: shourav9@gmail.com
 
